@@ -44,23 +44,23 @@
 .checkoutInput:focus {
   border: 1px solid rgb(252, 115, 115);
 }
-.formDivContainerButton{
-    width: 300px;
-    margin: auto;
-    display: flex;
-    justify-content: center;
+.formDivContainerButton {
+  width: 300px;
+  margin: auto;
+  display: flex;
+  justify-content: center;
 }
 .buttonCheckout {
-    width: 200px;
-    height: 50px;
-    border: none;
-    background-color: #fb641b;
-    color: #ffffff;
-    cursor: pointer;
-    border-radius: 5px;
-    font-size: 18px;
+  width: 200px;
+  height: 50px;
+  border: none;
+  background-color: #fb641b;
+  color: #ffffff;
+  cursor: pointer;
+  border-radius: 5px;
+  font-size: 18px;
 }
-.paymentsText{
+.paymentsText {
   width: 300px;
   height: auto;
   margin: auto;
@@ -68,9 +68,8 @@
   background-color: #ffffff;
   font-size: x-large;
 }
-.totalValueCheckout{
-  width: 400px;
-  padding: 10px;
+.totalValueCheckout {
+  width: 300px;
   margin: auto;
   display: flex;
   justify-content: space-between;
@@ -81,7 +80,7 @@
   .addreessText {
     width: 600px;
   }
-  .formContainer{
+  .formContainer {
     width: 600px;
   }
   .formDivContainer {
@@ -90,10 +89,13 @@
   .checkoutInput {
     width: 400px;
   }
-  .formDivContainerButton{
+  .formDivContainerButton {
     width: 400px;
   }
-  .checkoutInput{
+  .checkoutInput {
+    width: 400px;
+  }
+  .totalValueCheckout {
     width: 400px;
   }
 }
